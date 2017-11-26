@@ -8,5 +8,5 @@ There is a flappy monster instead flappy bird :)
 
 ## Demo
 
-http://localhost:8888/50%20-%20flappy%20monster/
+http://www.alperen.me/demo/flappy-monster-game/
 
