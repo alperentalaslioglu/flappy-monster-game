@@ -10,7 +10,7 @@ There is a flappy monster instead flappy bird :)
 
 http://www.alperen.me/demo/flappy-monster-game/
 
-## Caps 
+## Caps 
 
 ![](https://github.com/alperentalaslioglu/flappy-monster-game/raw/master/gameplaying.png)
 ![](https://github.com/alperentalaslioglu/flappy-monster-game/raw/master/gameover.png)
